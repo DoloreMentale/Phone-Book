@@ -1,4 +1,4 @@
-# Телефонная Книжка
+# Small phone book application
 
 ## Project setup
 ```
