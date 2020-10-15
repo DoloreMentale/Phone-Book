@@ -1,4 +1,4 @@
-# test_task_vue
+# Small phone book application
 
 ## Project setup
 ```
